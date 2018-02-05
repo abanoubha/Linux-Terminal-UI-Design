@@ -5,4 +5,8 @@ Final Result ( Linux Terminal UI Design ):
 
 ![terminal-ui](https://user-images.githubusercontent.com/27523369/35786306-07da709e-0a2f-11e8-920d-5b0b216a62a5.JPG)
 
-Watch me coding it : 
+Watch me coding it : https://youtu.be/aqeHuVTuzuU
+
+Read English tutorial : https://valueinbrief.blogspot.com/2018/02/linux-terminal-ui-design-html-css-svg.html
+
+Read Arabic tutorial : http://www.abanoubhanna.com/2018/02/linux-terminal-ui-design-html-css-svg.html
