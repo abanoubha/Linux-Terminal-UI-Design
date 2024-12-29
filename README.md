@@ -1,4 +1,5 @@
 # Linux-Terminal-UI-Design
+
 Linux Terminal UI Design in HTML, CSS and SVG
 
 Final Result ( Linux Terminal UI Design ):
@@ -7,6 +8,4 @@ Final Result ( Linux Terminal UI Design ):
 
 Watch me coding it : https://youtu.be/aqeHuVTuzuU
 
-Read English tutorial : https://valueinbrief.blogspot.com/2018/02/linux-terminal-ui-design-html-css-svg.html
-
-Read Arabic tutorial : http://www.abanoubhanna.com/2018/02/linux-terminal-ui-design-html-css-svg.html
+Check out the new posts : http://abanoubhanna.com
